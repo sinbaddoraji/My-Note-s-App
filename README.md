@@ -14,4 +14,6 @@ To use My Notes App, simply download the project files and open index.html in yo
 
 # Screenshots
 
+<img width="722" alt="Screenshot 2023-04-15 at 23 32 09" src="https://user-images.githubusercontent.com/40364978/232255986-93ae05c6-26f6-4c38-9ce3-4a87ba9e58da.png">
 
+<img width="721" alt="Screenshot 2023-04-15 at 23 33 27" src="https://user-images.githubusercontent.com/40364978/232255990-31b94520-e8ab-417f-b8bc-575148d277b5.png">
